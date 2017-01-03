@@ -33,7 +33,7 @@ slogan        : 'Journal of an English language teacher'
 lang: "en"
 
 # Build settings
-url           : 'http://blog.mikejharrison.me'
+url           : 'http://mikejharrison.me'
 baseurl       : ''
 markdown      : kramdown
 highlighter   : rouge
