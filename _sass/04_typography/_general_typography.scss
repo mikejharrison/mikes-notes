@@ -42,7 +42,7 @@ h2 {
   margin-top: 2em;
 }
 h3 {
-  font-style: italic;
+  font-weight: bold;
   font-size: $font-size-h3;
   margin-top: 2em;
 }
@@ -85,7 +85,7 @@ img {
 
 .alignleft,
 .left {
-  float: left; 
+  float: left;
   margin: .35em 1em 0 0;
 }
 .alignright,

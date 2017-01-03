@@ -65,7 +65,7 @@ format: frontpage
         <div class="tem2 bem2">&nbsp;</div>
     {% endfor %}
 
-
+      {% comment %}
         <h2>{{ site.data.ui[site.lang].more_articles }}</h2>
         <ul class="toc">
         {% for post in site.posts limit:site.posts_list_limit offset:site.posts_with_teaser_limit %}
@@ -77,7 +77,7 @@ format: frontpage
                 <li><a href="{{ post.url | absolute_url }}">{% if post.subheadline %}<span>{{ post.subheadline }}</span>{% endif %}{{ post.title }}</a></li>
             {% endif %}
         {% endfor %}
-
+      {% endcomment %}
         {{ content }}
     </div>
 </main><!-- /#content/.row -->
