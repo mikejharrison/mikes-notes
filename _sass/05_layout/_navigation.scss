@@ -132,3 +132,8 @@ devices. You find it in _sass/_layout/_layout_media_queries.scss
   height: 1.5em;
   fill: $line-color;
 }
+#tnav-search svg,
+#tnav-share svg {
+  margin-right: 15px;
+  margin-left: 15px;
+}

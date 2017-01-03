@@ -188,7 +188,7 @@ sass:
 #
 # used in _includes/comments
 
-# disqus_shortname:
+disqus_shortname: 'mikejaharrison'
 
 
 #       ___                __      __  _
