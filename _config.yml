@@ -33,7 +33,7 @@ slogan        : 'Journal of an English language teacher'
 lang: "en"
 
 # Build settings
-url           : 'https://mikejharrison.github.io'
+url           : ''
 baseurl       : '/mikes-notes'
 markdown      : kramdown
 highlighter   : rouge
