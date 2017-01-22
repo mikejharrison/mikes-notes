@@ -28,6 +28,7 @@
 title         : 'NOTES OF MIKE'
 description   : 'Thoughts, tips, tricks – the mind dump of an English language teacher.'
 slogan        : 'Journal of an English language teacher'
+author        : 'Mike Harrison'
 
 # The language setting is used in /includes/header.html for html-settings
 lang: "en"
