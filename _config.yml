@@ -50,6 +50,8 @@ posts_list_limit: 15
 # Use <!--more--> in your posts to generate an excerpt and a teaser
 excerpt_separator: <!--more-->
 
+words_per_minute: 200
+
 
 
 #      ______      __              _____      __
