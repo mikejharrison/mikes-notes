@@ -104,7 +104,7 @@ devices. You find it in _sass/_layout/_layout_media_queries.scss
 /* TNAV Images – Reduce Size of Images */
 #tnav-logo > a {
   padding: 0 1em 0 1em;
-  font-size: 1.5em;
+  font-size: 1.2em;
   letter-spacing: 1px;
 }
 
@@ -125,6 +125,9 @@ devices. You find it in _sass/_layout/_layout_media_queries.scss
   display: block;
   line-height: 1.5;
   padding: .65em 1em .5em 1em;
+}
+#tnav-share {
+  margin-right: 20px;
 }
 #tnav-share svg,
 #tnav-search svg {
