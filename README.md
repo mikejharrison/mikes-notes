@@ -1,3 +1,7 @@
+**Weblog of Mike Harrison**
+
+This is a website serving as my weblog. It's built using the Simplicity theme by Phlow, support information included below: 
+
 **Support Theme Development**
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/simplicity&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
