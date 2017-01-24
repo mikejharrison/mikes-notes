@@ -1,6 +1,7 @@
 ---
 layout: default
 format: page
+read_time: true
 ---
 <main role="main" id="content" class="row">
   <div class="{% if page.fullwidth == true %}small-12 columns{% else %}medium-8 medium-centered columns{% endif %}">
@@ -41,6 +42,7 @@ format: page
 
       <div class="main-content" itemprop="articleSection">
         {% if page.quote %}<blockquote style="margin: 0;">{{ page.quote }}</blockquote>{% endif %}
+
         {{ content }}
 
 
