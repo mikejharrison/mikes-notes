@@ -25,7 +25,7 @@
 {% endcomment %}
 
     <li id="tnav-search" class="tnav-item"><a href="{{ "/search/" | absolute_url }}">{% include svg/search.svg %}</a></li>
-
+{% comment %}
     <li id="tnav-share" class="tnav-item tnav-has-children tnav-allow-hover no-dropdown-arrow"><a href="#">{% include svg/share.svg %}</a>
       <ul class="tnav-children">
     		<li class="tnav-item"><a href="http://twitter.com/share?url={{ page.url | absolute_url }}&text=&raquo;{{ page.title }}&laquo;&via={{ site.socialmedia.twitter }}">Tweet it</a></li>
@@ -38,7 +38,7 @@
     		<li class="tnav-item"><a href="mailto:?subject={{ page.title }}&body={{ page.url | absolute_url }}">Email</a></li>
       </ul>
     </li>
-
+{% endcomment %}
     <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover tnav-hide"><a href="#">Navigation</a>
       <ul class="tnav-children">
         <li class="tnav-item"><a href="{{ "/info/" | absolute_url }}">About {{ site.title }}</a></li>
