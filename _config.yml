@@ -34,7 +34,7 @@ author        : 'Mike Harrison'
 lang: "en"
 
 # Build settings
-url           : ''
+url           : 'https://mikejharrison.github.io'
 baseurl       : '/mikes-notes'
 markdown      : kramdown
 highlighter   : rouge
