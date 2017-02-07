@@ -1,0 +1,36 @@
+---
+subheadline: 'A day in the life of an ESOL teacher'
+title: 'How we <span style="text-decoration: line-through;">work</span> teach now'
+image: 'guardian-work-now.jpg'
+caption: 'How we work now, from The Guardian'
+caption_url: 'https://www.theguardian.com/lifeandstyle/2016/feb/26/secret-office-diaries'
+---
+I originally wrote this last year after reading [a piece on the Guardian website styling itself as ‘secret office diaries’](https://www.theguardian.com/lifeandstyle/2016/feb/26/secret-office-diaries). A few of the comments, as you’d expect maybe, were taking pops at these alleged office diarists and how much actual work they seemed (not) to do. Don't you want to find out what a typical day working in English for Speakers of Other Languages might look...
+
+<!--more-->
+
+Obviously the whole thing in The Guardian is anonymous, and there are others in the comment section identifying with the trials and travails of these project managers, editors, charity workers and others – but it made me think back to what used to happen when I was teaching ESOL in an FE college. Here’s what my diary might have looked like – stop me if any of this sounds familiar…
+
+**7.30am** I catch the bus to work. Although I don’t actually start teaching until 9.30, it’s always a good idea to be in the staffroom nice and early to deal with any last-minute changes. More than once it’s been the case that I’ve suddenly had to deal with an amalgamated group of about 25-30 students when I was only expecting 12 maximum. On the bus I’m putting together a minimal PowerPoint presentation together on my phone to practise giving descriptions with Entry 1s (It’s a black cat. It’s got short hair, it’s cute…)
+
+**8.30am** At work now, I’m in front of the computer. The inevitable ‘Sorry teacher I can’t to come today’ messages are coming in. I’ve gone down to the canteen to get a bacon roll to help me get going as I plug in some data to a really god-awful piece of software for tracking student progress. I put in my information, what seems like about five times, but the system refuses to save it. I go off to my first lesson still not having completed this pointless piece of admin work.
+
+**9.30am** I’m in my classroom now. The chairs and tables are laid out how I want – a nice horseshoe shape today, with plenty of space in the middle for students to move around and mingle during a communicative activity I’ve got planned later on. The students trickle in and I engage in a bit of chat with them. How are they, what’s been happening, that kind of thing. I always have a fairly unplanned and loose approach to beginning a class, so that if anything interesting comes up as we exchange morning chitchat, we can explore it a little. Someone mentions something about trouble with the buses and we have a conversation about the differences in public transport systems in different countries.
+
+### I ALWAYS HAVE A FAIRLY UNPLANNED AND LOOSE APPROACH TO BEGINNING A CLASS…
+
+**9.50am** There are a few latecomers. Some of them I know about – they’re mums and they’ve had to drop their kids off at school – but there are also a few students who haven’t forewarned me of their unpunctuality. I find it a bit rude, to be honest, disruptive as it can be when they saunter in, with a cursory ‘Sorry I late’. I try not to let it get to me too much, making a note to follow up on their tardiness in a tutorial later on in the week.
+
+**10.45am** Phew! A break. My morning class is three hours altogether, so by this time I’m running out of steam. It’s going well though, some good contributions from the students (even the annoying late one is chipping in). I feel like I’m kind of in the teaching zone. Rush back to the staffroom to check email (two more messages from errant students, another report thing to be completed by the end of the week), and scoff a cereal bar. I run to make a few photocopies for a speaking activity in the final hour of the lesson, and go back to the classroom.
+
+**12.30pm** Half an hour is not long enough for me to have a proper lunch, so I’m not surprised that after the break not all of the students are there ready in the classroom. A few are though, eagerly sitting waiting for their afternoon lesson. As with the morning group I start off low-key and ask them a few questions about their morning lesson. Once the more tardy members have found their way back after lunch, we properly get going.
+
+### TWO HOURS IS PROBABLY ABOUT MY LIMIT…
+
+**1.15pm** This afternoon class is only two hours, compared to the morning’s three-hour session. Two hours is probably about my limit with a lower level class (which this is). There’s a lot more scaffolding, supporting and prompting that you need to do. Two hours also means there’s no scope for taking a break midway through the lesson. It’s a bit of a slog, but I’m happy – my bus-prepped presentation has worked a treat and the students are really engaging with the language and each other.
+
+**2.30pm** My afternoon class over, I nip down to the college cafeteria to grab a coffee. I don’t like having too much caffeine, but with another lesson due to start in about three quarters of an hour, I need it.
+
+**3.15pm** Just one more lesson to go, but this is probably the one I’m least confident about. I’m teaching Functional Skills to a fairly large group of Level 1 teens. For those unfamiliar with further education in the UK, FS replaced Key Skills and cover the basics in English, Maths and ICT (really how to search the internet and use Office software). It’s a requirement now for all students in FE to show they have at least these basic skills, and in theory as a general thing it’s quite worthy. In practice, a bit less so. Some of the maths that you have to teach is really quite basic and some of the students in the group look visibly affronted by having to do this. Sadly, given that some of these kids have moved to the UK only part of the way through their secondary education, they have to do this or they might get stuck. We press on in the lesson, doing something about searching for property prices, putting them in spreadsheets and doing a few sums. Half the class get it really quickly, while with the others I run around the room like a blue-arsed fly, helping them get on with the tasks as and when they get stuck. All being said, I quite like this group. They’re very boisterous (and usually the girls more so than the boys) and there can be a lot of laughs alongside the FS dredge.
+
+**5.15pm** Done! That’s all my teaching for today. I should stay for a bit and catch up with some paperwork, a pile of which has grown on my desk during the day – some notes from my lessons, handed-in homework, bits and pieces of report documentation. But, I don’t have the energy right now, so I just try and make them look as tidy as possible next to my computer keyboard. I’ll get in extra early tomorrow to deal with it (I probably won’t).
