@@ -4,6 +4,7 @@ title: 'How we <span style="text-decoration: line-through;">work</span> teach no
 image: 'guardian-work-now.jpg'
 caption: 'How we work now, from The Guardian'
 caption_url: 'https://www.theguardian.com/lifeandstyle/2016/feb/26/secret-office-diaries'
+excerpt: 'The diary of an ESOL teacher's typical day at work'
 ---
 I originally wrote this last year after reading [a piece on the Guardian website styling itself as ‘secret office diaries’](https://www.theguardian.com/lifeandstyle/2016/feb/26/secret-office-diaries). A few of the comments, as you’d expect maybe, were taking pops at these alleged office diarists and how much actual work they seemed (not) to do. Don't you want to find out what a typical day working in English for Speakers of Other Languages might look...
 
