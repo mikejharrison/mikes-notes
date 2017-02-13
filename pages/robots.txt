@@ -1,7 +1,7 @@
 ---
 layout: null
 title: "Permissions for Web Crawlers"
-permalink: /robots.txt
+permalink: /robots
 source: "www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449" # www.robotstxt.org
 ---
 User-agent: *
