@@ -1,6 +1,8 @@
 ---
 title: 'Manchester 2015'
 fullwidth: true
+image: 'manchester-teaser.png'
+excerpt: 'A few of my photographs from the 2015 IATEFL Annual Conference, which was held in Manchester.'
 images:
   - image_path: /images/2015-manchester/chia-sergio.jpg
     title: Chia and Sergio
