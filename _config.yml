@@ -226,7 +226,7 @@ socialmedia:
     # soundcloud: phlow
     # tumblr: motizen
     # instagram: phlowmedia
-    # rss: # Full URL needed
+    rss: https://mikejharrison.github.io/mikes-notes # Full URL needed
 
 
 
