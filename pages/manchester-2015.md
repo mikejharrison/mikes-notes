@@ -26,7 +26,7 @@ images:
     title: Stephen and Ela
   - image_path: /images/2015-manchester/willy.jpg
     title: Willy
-permalink: "/manchester-2015"
+permalink: '/manchester-2015'
 ---
 Here are a few of my photographs from the 2015 IATEFL Annual Conference, which was held in Manchester.
 <!--more-->
