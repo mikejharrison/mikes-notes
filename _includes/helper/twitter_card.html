@@ -3,5 +3,5 @@
 <meta name="twitter:site" content="{{ site.socialmedia.twitter }}">
 <meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
 <meta name="twitter:title" content="{{ title }}">
-<meta name="twitter:description" content="{{ description }}">
+<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
 {% if page.image %}<meta name="twitter:image" content="{{ "/images/" | absolute_url }}{{ page.image }}">{% endif %}
