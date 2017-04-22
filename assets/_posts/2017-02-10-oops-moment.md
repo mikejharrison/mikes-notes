@@ -13,6 +13,7 @@ excerpt: 'At the end of January, we held the TDSIG Webcarnival. This is a video 
 permalink: /oops
 ---
 At the end of January, we held the TDSIG Webcarnival. This is a video discussing an oops moment – those moments where things don't go so well – and what I learnt from it.
+
 <!--more-->
 
 The event itself didn't go off without a hiccup – the connection was too bad for one of the four speakers – but we still had a really interesting day discussing moments where things go wrong and what it's possible to learn about teaching when the wheels fall off.
