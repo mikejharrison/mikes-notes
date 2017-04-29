@@ -1,0 +1,5 @@
+<div class="row">
+  {% for image in page.images %}
+    <div class="large-4 medium-6 small-12 columns"><img class ="b-w" src="https://raw.githubusercontent.com/mikejharrison/mikes-notes/gh-pages{{ image.image_path }}" alt="{{ image.title }}"/></div>
+  {% endfor %}
+</div>
